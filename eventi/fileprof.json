@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "000001",
+      "name": "Ursino Buskers 2018 - Festival Internazionale di Arti di Strada",
+      "location": "Castello Ursino, Catania",
+      "fullAddress": "Piazza Federico di Svevia, 95121 Catania",
+      "startDate": "20-09-2018",
+      "endDate": "23-09-2018",
+      "info": "La Magia del Cambiamento torna a compiersi il 21, 22 e 23 Settembre 2018 tra le storiche strade e le meravigliose piazze del Quartiere del Museo Civico Castello Ursino",
+      "prize": "free",
+      "img": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/41467007_2006225909399775_4743479555216375808_n.jpg?_nc_cat=0&oh=f01b5d567486989a08272b70afb7c235&oe=5C18CA99",
+      "url": "https://www.gammazita.it/ursino-buskers/",
+      "tel": "328 132 6671",
+      "tags": ["#street", "#artist"]
+    },
+    {
+      "id": "000002",
+      "name": "Beercatania",
+      "location": "Catania",
+      "fullAddress": "Via Etnea, 595, 95100 Catania ",
+      "startDate": "23-09-2018",
+      "endDate": "25-09-2018",
+      "info": "... se avete ancora sete ci vediamo anche al BeerCatania 23-24-25 NOVEMBRE 2018",
+      "prize": "10 euro",
+      "img": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/33942027_1903536796369351_6932081562250903552_n.jpg?_nc_cat=0&oh=c34ea48ef89df8209d8dccff34af10ef&oe=5C630D81",
+      "url": "http://www.beercatania.it/",
+      "tel": "095 216 6671",
+      "tags": ["#beer", "#drinks", "#festival"]
+    },
+    {
+      "id": "000003",
+      "name": "Montagna di Ganzaria, passeggiata naturalistica e archeologica",
+      "location": "Etnattiva",
+      "fullAddress": "Tremestieri Etneo, 95030 Catania",
+      "startDate": "24-09-2018",
+      "endDate": "24-09-2018",
+      "info": "Amici di Etnattiva vi invitiamo ad una passeggiata che unisce natura e storia grazie alle numerose testimonianze archeologiche conservate lungo il sentiero della Montagna di Ganzaria, a qualche km dal comune di San Michele di Ganzaria. Dal luogo in cui posteggeremo le macchine, seguiremo un facile sentiero naturalistico fiancheggiato da alberi di eucalipto e alcuni nuclei boschivi a leccio e a roverella, accompagnati da arbusti come l'asparago pungente, l'edera, il lentisco, la palma nana. Proseguiremo fino allâ€™area archeologica di Piano Cannelle con tombe risalenti tra lâ€™etÃ  tardo imperiale romana e quella bizantina fino ai ruderi di una cappella del XVIII secolo. Infine giungeremo su Poggio Pizzuto per ammirare i resti di una torre medievale.",
+      "prize": "11 euro",
+      "img": "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/39810782_1811332998919951_7516861331199229952_n.jpg?_nc_cat=0&oh=a706043ecf83510cafd87a4bc7f834f9&oe=5C2F74C3",
+      "url": "http://www.etnattiva.com/",
+      "tel": "3391717677",
+      "tags": ["#excursion", "#travel", "#festival"]
+    }
+  ]
+}
